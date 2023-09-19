@@ -1,0 +1,281 @@
+
+tubuh {
+
+
+batas : 0 ;
+
+
+bantalan : 0 ;
+
+
+latar belakang : #191730 ;
+
+
+}
+
+
+.profil-kartu {
+
+
+posisi : mutlak ;
+
+
+atas : 50% ;
+
+
+kiri : 50% ;
+
+
+transformasi : terjemahkan ( -50% , -50% );
+
+
+latar belakang : rgb ( 255 , 254 , 254 );
+
+
+lebar : 400 piksel ;
+
+
+meluap : tersembunyi ;
+
+
+font-family : 'Montserrat' , sans-serif ;
+
+
+warna : #555757 ;
+
+
+bayangan kotak : 1px  2px  8px  3px ;
+
+
+}
+
+
+.atas {
+
+
+lebar : 100% ;
+
+
+tinggi : 200 piksel ;
+
+
+meluap : tersembunyi ;
+
+
+posisi : relatif ;
+
+
+}
+
+
+.gambar  teratas {
+
+
+bantalan : 10px  0  0  100px ;
+
+
+lebar : 200 piksel ;
+
+
+tinggi : 200 piksel ;
+
+
+}
+
+
+#persegi panjang {
+
+
+lebar : 0 ;
+
+
+tinggi : 0 ;
+
+
+border-top : 30px  solid  transparan ;
+
+
+perbatasan-kiri : 400px  putih solid  ;
+
+
+posisi : mutlak ;
+
+
+bawah : 0 ;
+
+
+}
+
+
+.konten {
+
+
+bantalan : 0  10 piksel ;
+
+
+perataan teks : tengah ;
+
+
+meluap : tersembunyi ;
+
+
+bantalan : 10 piksel ;
+
+
+}
+
+
+.konten  h2 {
+
+
+margin : 0  0  8 piksel  0 piksel ;
+
+
+transformasi teks : huruf besar ;
+
+
+}
+
+
+.konten  h3 {
+
+
+batas : 0 ;
+
+
+transformasi teks : huruf besar ;
+
+
+}
+
+
+.konten  ul {
+
+
+batas : 0 ;
+
+
+bantalan : 0 ;
+
+
+}
+
+
+.konten  ul  li {
+
+
+gaya daftar : tidak ada ;
+
+
+tampilan : blok sebaris ;
+
+
+margin : 0  8 piksel ;
+
+
+}
+
+
+.content  ul  li  a {
+
+
+dekorasi teks : tidak ada ;
+
+
+warna : putih ;
+
+
+ukuran font : 20 piksel ;
+
+
+latar belakang : abu-abu ;
+
+
+lebar : 30 piksel ;
+
+
+tinggi : 30 piksel ;
+
+
+radius batas : 50% ;
+
+
+tinggi garis : 30 piksel ;
+
+
+perataan teks : tengah ;
+
+
+transisi : 0,3 detik  semua ;
+
+
+}
+
+
+.content  ul  li  a: arahkan kursor {
+
+
+transformasi : skala ( 1.2 );
+
+
+}
+
+
+#persegi panjang1 {
+
+
+lebar : 0 ;
+
+
+tinggi : 0 ;
+
+
+border-bottom : 30px  solid  transparan ;
+
+
+perbatasan-kanan : 400px  putih solid  ;
+
+
+posisi : mutlak ;
+
+
+atas : -1 piksel ;
+
+
+}
+
+
+.footer {
+
+
+lebar : 100% ;
+
+
+tinggi : 70 piksel ;
+
+
+posisi : relatif ;
+
+
+latar belakang : #314652 ;
+
+
+warna : putih ;
+
+
+}
+
+
+.footer  p {
+
+
+tampilan : blok ;
+
+
+batas : 0 ;
+
+
+bantalan : 26 piksel ;
+
+
+}
